@@ -8,3 +8,6 @@
 - 📫 How to reach me: Email/chat through my [website](https://maicol07.it) or [Telegram](https://telegram.me/maicol07)
 - 😄 Pronouns: He/Him
 
+My summary at [CodersRank](https://codersrank.io):
+
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maicol07&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
