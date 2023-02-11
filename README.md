@@ -14,4 +14,17 @@ My summary at [CodersRank](https://codersrank.io):
 
 Languages I spend most time on:
 <!--START_SECTION:waka-->
+
+```text
+From: 24 January 2023 - To: 10 February 2023
+
+Total Time: 85 hrs 21 mins
+
+PHP              26 hrs          ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+TypeScript       21 hrs 43 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+Blade Template   17 hrs 21 mins  █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+SCSS             5 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Other            4 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+```
+
 <!--END_SECTION:waka-->
