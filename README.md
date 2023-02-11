@@ -10,7 +10,7 @@
 
 My summary at [CodersRank](https://codersrank.io):
 
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maicol07&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+![CodersRank summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maicol07&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:16px)
 
 Languages I spend most time on:
 <!--START_SECTION:waka-->
