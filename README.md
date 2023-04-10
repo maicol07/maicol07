@@ -18,13 +18,13 @@ Languages I spend most time on:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 07 April 2023
+From: 24 January 2023 - To: 08 April 2023
 
-Total Time: 267 hrs 17 mins
+Total Time: 267 hrs 51 mins
 
-TypeScript             93 hrs 52 mins  ████████▓░░░░░░░░░░░░░░░░   35.12 %
-PHP                    56 hrs 6 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-Other                  31 hrs 4 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+TypeScript             94 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   35.24 %
+PHP                    56 hrs 6 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+Other                  31 hrs 4 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
 ```
 
 <!--END_SECTION:waka-->
