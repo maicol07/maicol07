@@ -18,7 +18,7 @@ Languages I spend most time on:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 09 April 2023
+From: 24 January 2023 - To: 10 April 2023
 
 Total Time: 267 hrs 51 mins
 
