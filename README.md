@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maicol07&layout=compact&theme=transparent" align="right"/>
 
 ### 📊 My summary at [CodersRank](https://codersrank.io):
-![CodersRank summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maicol07&badges=3&show-avatar=true&width=350&style=--header-bg-color:%23000;--border-radius:16px)
+![CodersRank summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maicol07&badges=3&show-avatar=false&width=300&style=--header-bg-color:black;--border-radius:16px;--avatar-size:40px;--name-font-size:14px;--rank-font-size:10px;)
 
 <div align="center">
   
