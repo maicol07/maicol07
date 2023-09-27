@@ -7,6 +7,11 @@
 - 😄 Pronouns: He/Him
 
 <div align="center">
+
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bootstrap,c,cs,cpp,cloudflare,css,git,gradle,html,js,jquery,kotlin,laravel,latex,linux,lit,md,mysql,php,py,sass,ts,vite,&perline=8)](https://skillicons.dev)
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=maicol07&layout=compact&count_private=true&count_private=true&show_icons=true&theme=transparent" alt="Maicol07's github stats"/><br/>
   <a href="https://wakatime.com/@maicol07">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maicol07&layout=compact&theme=transparent"/>
