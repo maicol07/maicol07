@@ -1,8 +1,6 @@
 ## Hi, I'm Maicol 👋
-- 🔭 I’m currently working on [ts-collections](https://github.com/maicol07/ts-collections) and a new [Coloquent](https://github.com/maicol07/coloquent)
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m open to collaborations on open-source projects written in PHP/Laravel
-- 💬 Ask me about anything. I'm up for developing private projects and collaborating on existing ones (languages accepted: Python (PySide2 or pure Python), JS/jQuery and PHP/Laravel)
+- 🔭 I’m currently working on different projects (see my activity below)
+- 🌱 I’m currently learning (nothing)
 - 📫 How to reach me: Email/chat through my [website](https://maicol07.it) or [Telegram](https://telegram.me/maicol07)
 - 😄 Pronouns: He/Him
 
@@ -11,10 +9,29 @@
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bootstrap,c,cs,cpp,cloudflare,css,git,gradle,html,js,jquery,kotlin,laravel,latex,linux,lit,md,mysql,php,py,sass,ts,vite,&perline=8)](https://skillicons.dev)
 
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=maicol07&layout=compact&count_private=true&count_private=true&show_icons=true&theme=transparent" alt="Maicol07's github stats"/><br/>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maicol07&layout=compact&count_private=true&count_private=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=maicol07&layout=compact&count_private=true&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maicol07&layout=compact&count_private=true&count_private=true&show_icons=true" />
+</picture>
   <a href="https://wakatime.com/@maicol07">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maicol07&layout=compact&theme=transparent"/>
+      <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=maicol07&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=maicol07&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maicol07&layout=compact" />
+</picture>
   </a>
   
   ### 📊 My summary at [CodersRank](https://codersrank.io):
